@@ -7,3 +7,4 @@
 - fsz - 16 px - базовый размер (100%, medium)
 - жирность - normal, hold, 100 - 900
 - конверторы шрифтов
+- <script src="https://kit.fontawesome.com/02902f4142.js" crossorigin="anonymous"></script> - подключение иконочный шрифт
